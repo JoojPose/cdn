@@ -1,4 +1,3 @@
-# Image Hosting
 I don't know why you're here, but welcome to my CDN! I host random images here (you'll maybe find shitposts)
 
 ## How it is used
